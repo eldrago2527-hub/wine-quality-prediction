@@ -16,8 +16,8 @@ from reportlab.platypus import (SimpleDocTemplate, Paragraph, Spacer, PageBreak,
 from PIL import Image as PILImage
 
 # ============ EDIT THESE ============
-STUDENT_NAME   = "YOUR NAME"
-REGISTER_NO    = "YOUR REGISTER NUMBER"
+STUDENT_NAME   = "Rahul Krishna S"
+REGISTER_NO    = ""
 DEPARTMENT     = "Department of Computer Science and Engineering (AIML)"
 COLLEGE        = "Coimbatore Institute of Engineering and Technology"
 SUBJECT_NAME   = "Data Science"
