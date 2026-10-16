@@ -17,14 +17,14 @@ from PIL import Image as PILImage
 
 # ============ EDIT THESE ============
 STUDENT_NAME   = "Rahul Krishna S"
-REGISTER_NO    = ""
+REGISTER_NO    = "71052510016"
 DEPARTMENT     = "Department of Computer Science and Engineering (AIML)"
 COLLEGE        = "Coimbatore Institute of Engineering and Technology"
 SUBJECT_NAME   = "Data Science"
 COURSE_CODE    = "U23AMT01"
 YEAR_SEM       = "II/III"
 DATE           = "16-10-2026"
-GITHUB_LINK    = "https://github.com/your-username/wine-quality-prediction"
+GITHUB_LINK    = "https://github.com/eldrago2527-hub/wine-quality-prediction"
 # ====================================
 
 OUT = "outputs"
